@@ -1,0 +1,21 @@
+{
+  "name": "linked-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "linked-list.js",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitdingus/linked-list.git"
+  },
+  "author": "Josh S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitdingus/linked-list/issues"
+  },
+  "homepage": "https://github.com/gitdingus/linked-list#readme"
+}
