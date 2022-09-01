@@ -130,7 +130,7 @@ const linkedListProto = {
   }
 }
 
-function LinkedList() {
+export default function LinkedList() {
   const list = Object.create(linkedListProto);
   list._head = Node();
 
